@@ -1,7 +1,6 @@
 # Transport Connectivity in Southern Africa (Graph Algorithms)
 
-A C++ application demonstrating graph theory and pathfinding algorithms, developed for the COS2611 (Data Structures) course at the University of South Africa (UNISA).
-
+A C++ application demonstrating graph theory and pathfinding algorithms.
 The project models direct road distances between major Southern African metropolitan hubs using an adjacency matrix and evaluates network traversal and optimal path selection.
 
 ## Modeled Cities
